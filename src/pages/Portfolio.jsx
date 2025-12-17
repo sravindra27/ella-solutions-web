@@ -12,18 +12,18 @@ const projects = [
         link: "https://meatintowns.com"
     },
     {
-        title: "Varahi Imports & Exports",
+        title: "Varahi Exports & Imports",
         category: "Corporate Website",
         image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
         description: "International trade portal showcasing products and facilitating global business connections.",
         tags: ["Next.js", "Tailwind CSS", "CMS"],
-        link: "https://varahiimportsexports.com"
+        link: "https://varahiexportsimports.com"
     },
     {
         title: "Let Me Help You",
-        category: "Service Aggregator",
+        category: "PDF Online Utility",
         image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2069&auto=format&fit=crop",
-        description: "Connecting local service providers with customers in need of immediate assistance.",
+        description: "online pdf utility tool - a one stop solution for all your pdf needs.",
         tags: ["React Native", "Firebase", "Google Maps API"],
         link: "https://letmehelpyou.in"
     }
