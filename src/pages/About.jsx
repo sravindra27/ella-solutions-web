@@ -68,7 +68,7 @@ const About = () => {
                             <div className="order-1 md:order-2">
                                 <h2 className="text-3xl md:text-4xl font-bold mb-6 text-slate-900">Building the Future Together</h2>
                                 <p className="text-slate-600 text-lg leading-relaxed mb-6">
-                                    At ELLA Solutions, we foster a culture of creativity and collaboration. Our diverse team brings together unique perspectives to solve complex challenges.
+                                    At EllaTech Solutions, we foster a culture of creativity and collaboration. Our diverse team brings together unique perspectives to solve complex challenges.
                                 </p>
                                 <p className="text-slate-600 text-lg leading-relaxed">
                                     Whether it's a simple website or a complex enterprise application, we approach every project with the same level of dedication and enthusiasm.
