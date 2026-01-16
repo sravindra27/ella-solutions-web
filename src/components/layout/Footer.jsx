@@ -75,7 +75,7 @@ const Footer = () => {
 
                 <div className="pt-8 border-t border-slate-200 flex flex-col md:flex-row justify-between items-center bg-slate-50">
                     <p className="text-slate-500 text-sm">
-                        &copy; {currentYear} ELLA Solutions. All rights reserved.
+                        &copy; {currentYear} EllaTech Solutions. All rights reserved.
                     </p>
                     <div className="flex space-x-6 mt-4 md:mt-0">
                         <a href="#" className="text-slate-500 hover:text-slate-900 text-sm">Privacy Policy</a>
