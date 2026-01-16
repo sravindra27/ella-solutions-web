@@ -20,7 +20,7 @@ const Contact = () => {
     return (
         <>
             <Helmet>
-                <title>Contact Us | ELLA Solutions</title>
+                <title>Contact Us | EllaTech Solutions</title>
                 <meta name="description" content="Get in touch with ELLA Solutions for your web and mobile app development needs." />
             </Helmet>
 
@@ -45,8 +45,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h3 className="text-lg font-bold text-slate-900 mb-1">Email Us</h3>
-                                        <p className="text-slate-600">hello@ellasolutions.com</p>
-                                        <p className="text-slate-600">support@ellasolutions.com</p>
+                                        <p className="text-slate-600">hello@ellasolutions.tech</p>
                                     </div>
                                 </div>
                                 <div className="flex items-start space-x-6">
@@ -55,8 +54,8 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h3 className="text-lg font-bold text-slate-900 mb-1">Call Us</h3>
-                                        <p className="text-slate-600">+1 (555) 123-4567</p>
-                                        <p className="text-slate-400">Mon - Fri, 9am - 6pm EST</p>
+                                        <p className="text-slate-600">+91 7019893876</p>
+                                        <p className="text-slate-400">Mon - Fri, 9am - 6pm IST</p>
                                     </div>
                                 </div>
                                 <div className="flex items-start space-x-6">
@@ -65,8 +64,8 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <h3 className="text-lg font-bold text-slate-900 mb-1">Visit Us</h3>
-                                        <p className="text-slate-600">123 Innovation Dr, Suite 500</p>
-                                        <p className="text-slate-400">Tech City, TC 90210</p>
+                                        <p className="text-slate-600">RR Nagar</p>
+                                        <p className="text-slate-400">Bengaluru 560098</p>
                                     </div>
                                 </div>
                             </div>
