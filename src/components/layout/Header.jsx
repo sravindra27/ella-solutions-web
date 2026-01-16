@@ -26,7 +26,7 @@ const Header = () => {
                     {/* Logo */}
                     <Link to="/" className="flex items-center space-x-2">
                         <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-violet-500 bg-clip-text text-transparent">
-                            ELLA Solutions
+                            EllaTech Solutions
                         </span>
                     </Link>
 
