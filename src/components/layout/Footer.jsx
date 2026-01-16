@@ -12,7 +12,7 @@ const Footer = () => {
                     <div>
                         <Link to="/" className="inline-block mb-4">
                             <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-violet-500 bg-clip-text text-transparent">
-                                ELLA Solutions
+                                EllaTech Solutions
                             </span>
                         </Link>
                         <p className="text-slate-600 text-sm leading-relaxed mb-6">
